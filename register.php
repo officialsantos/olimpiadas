@@ -78,7 +78,7 @@
 				        $mail->Host = 'smtp.gmail.com';                      
 				        $mail->SMTPAuth = true;                               
 				        $mail->Username = 'sanchuap@gmail.com';     
-				        $mail->Password = 'vksqwjxzbikzbfqo';                    
+				        $mail->Password = 'password';                    
 				        $mail->SMTPOptions = array(
 				            'ssl' => array(
 				            'verify_peer' => false,
